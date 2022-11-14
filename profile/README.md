@@ -10,7 +10,7 @@ don't keep a managed inventory of Open Source projects that are critical to thei
 a concern not only for the potential for unidentified security incidents, but the health and longevity of these projects
 can be hugely important in both financial and stability concerns.
 
-## Inner Source efficiencies
+### Inner Source
 
 Whilst the benefits of Open Source are clear, sometimes you cannot make your source code public. But that doesn't mean you can't
 benefit from Open Source principles between your internal teams. Inner Source focuses on better team sharing and integration
@@ -21,7 +21,7 @@ within large organizations.
 Whether you are managing customer-facing or internal applications, DevOps teams are cheaper and more efficient that silo'ed
 IT functions.
 
-## Reduce cognitive load with Platform Engineering
+### Platform Engineering
 
 As the concerns of operating workloads continue to grow, DevOps can become overwhelming for many developers. The cognitive load
 can be reduced by centralised key functions that focus on key pillars of good architecture, such as security, resiliency and
