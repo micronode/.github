@@ -3,6 +3,12 @@
 Software make the world go around! We love software, but it's hard to get right. We believe that software longevity
 and interoperability are key to a good software strategy, and can lead you to a happy place for you and your teams.
 
+## Interoperability
+
+Interoperable data and protocol standards help to avoid rework and increase longevity of software systems. Through implementing
+standards we greatly improve the compatibility of workloads with other systems, in order to address both known business needs
+today and unknown needs into the future.
+
 ## Everyone needs Open Source
 
 Let's face it, you cannot have a software strategy without Open Source. But many organizations, including very large ones,
